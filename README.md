@@ -14,7 +14,7 @@
 
 </br>
 
-| **Librerías JAVA** | **finalidad** |               
+| **Librerías JAVA** | **Finalidad** |               
 | ------------- | ------------- |
 | jcommon-1.0.23.jar |   Creacion de Graficos |
 | jcommon-xml-1.0.23.jar |  Creacion de Graficos |
@@ -23,8 +23,23 @@
 
 </br>
 
-| **Librerías ARDUINO** | **finalidad** |               
+| **Librerías ARDUINO** | **Finalidad** |               
 | ------------- | ------------- |
 |  |    |
 |  |  |
 | |  |
+
+</br>
+
+ 
+ ## Patrones de Diseño Implementados
+ * **Singleton** 
+ * **Dao** 
+ 
+ ## Uso de Java8
+* **Streams y Lambdas**
+* **Filters**
+* **Collections**
+* **Etc..**
+
+</br>
