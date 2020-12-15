@@ -40,6 +40,7 @@
 |  Placa Arduino Uno| Controlador   |
 | Sensor DHT11 | Sensor de Temperatura y Humedad |
 | Cable USB| Comunicacion Gui-Controlador |
+| Cables Dupont Macho-Hembra| Conexión Controlador-Sensor|
 
 (El tipo de sensor no es relevante, siempre y cuando se enfatize el puerto a usar, los pines de entrada, etc).
 
