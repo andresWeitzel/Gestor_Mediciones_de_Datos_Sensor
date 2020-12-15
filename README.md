@@ -35,6 +35,17 @@
 
 </br>
 
+| **Hardware Requerido** | **Finalidad** |               
+| ------------- | ------------- |
+|  Placa Arduino Uno| Controlador   |
+| Sensor DHT11 | Sensor de Temperatura y Humedad |
+| Cable USB| Comunicacion Gui-Controlador |
+
+(El tipo de sensor no es relevante, siempre y cuando se enfatize el puerto a usar, los pines de entrada, etc).
+
+
+</br>
+
  
  ## Patrones de Diseño Implementados
  * **Singleton** 
