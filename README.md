@@ -20,6 +20,7 @@
 | jcommon-xml-1.0.23.jar |  Creacion de Gráficos |
 | jfreechart-1.0.19.jar | Creacion de Gráficos  |
 | PanamaHitek_Arduino-2.8.2.jar | Conexion Serial con Arduino  |
+
 (Todas las Librerías se encuentran en el repositorio principal de este proyecto y dentro de la carpeta Librerias)
 
 </br>
