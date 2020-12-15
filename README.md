@@ -57,3 +57,13 @@
 * **Etc..**
 
 </br>
+
+## Descarga y documentacion del Software empleado:
+#### Java-JDK 12:                     https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
+#### Apache Netbeans IDE:             https://netbeans.apache.org/download/index.html
+#### Arduino IDE:                     https://www.arduino.cc/en/software
+#### XAMPP                            https://www.apachefriends.org/download.html
+#### Mysql Workbench                 https://www.mysql.com/products/workbench/
+
+
+
