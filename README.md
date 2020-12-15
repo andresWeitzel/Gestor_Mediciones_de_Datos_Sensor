@@ -27,9 +27,7 @@
 
 | **Librerías ARDUINO** | **Finalidad** |               
 | ------------- | ------------- |
-|  |    |
-|  |  |
-| |  |
+| DHT-sensor-library-master.zip |  Gestion del sensor dht11  |
 
 (Todas las Librerías se encuentran en el repositorio principal de este proyecto y dentro de la carpeta Librerias)
 
