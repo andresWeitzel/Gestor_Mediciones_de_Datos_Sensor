@@ -1,6 +1,6 @@
 # Gestor Mediciones de Datos Sensor.
 
-**Se desarrolla una GUI en Java con Maven para la gestión de Mediciones de datos  de un Sensor de Temperatura y Humedad implementando la comunicación Serial con Arduino y aplicando JDBC en MYSQL.**
+**Se desarrolla una GUI en Java con Ant para la gestión de Mediciones de datos  de un Sensor de Temperatura y Humedad implementando la comunicación Serial con Arduino y aplicando JDBC en MYSQL.**
  
  </br>
 
@@ -16,6 +16,7 @@
 
 | **Librerías JAVA** | **Finalidad** |               
 | ------------- | ------------- |
+| mysql-connector-java-8.0.21.jar |   Driver conexion db mysql |
 | jcommon-1.0.23.jar |   Creacion de Gráficos |
 | jcommon-xml-1.0.23.jar |  Creacion de Gráficos |
 | jfreechart-1.0.19.jar | Creacion de Gráficos  |
@@ -51,7 +52,8 @@
  * **Dao** 
  
  ## Uso de Java8
-* **Streams y Lambdas**
+* **Streams**
+* **Lambdas**
 * **Filters**
 * **Collections**
 * **Etc..**
